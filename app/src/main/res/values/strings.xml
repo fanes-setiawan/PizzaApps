@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">PizzaApp</string>
+    <string name="menu">Menu</string>
+    <string name="transaction">Transaction</string>
+    <string name="total">Total</string>
+    <string name="tax">Tax</string>
+    <string name="total_payment">Total Payment</string>
+    <string name="pay_now">Pay Now</string>
+    <string name="paid_amount">Paid Amount</string>
+    <string name="finish">Finish</string>
 </resources>
